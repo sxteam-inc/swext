@@ -23,5 +23,5 @@
     ],
     "url": "https://github.com/sxteam-inc/swext",
     "manifest": "https://raw.githubusercontent.com/sxteam-inc/swext/refs/heads/master/module.json",
-    "download": "https://github.com/sxteam-inc/swext/archive/refs/tags/release-3.zip"
+    "download": "https://git.rhgsx.space/sxteam/swext/archive/release-3.zip"
 }

@@ -33,6 +33,6 @@
         "module.js"
     ],
     "url": "https://git.rhgsx.space/sxteam/sx-swext",
-    "manifest": "FIXME",
-    "download": "FIXME"
+    "manifest": "https://git.rhgsx.space/sxteam/swext/raw/branch/master/module.json",
+    "download": "https://git.rhgsx.space/sxteam/swext/archive/release-1.zip"
 }

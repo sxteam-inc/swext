@@ -12,7 +12,7 @@
         "systems": [
             {
                 "id": "swade",
-                "type": "required"
+                "type": "system"
             }
         ],
         "requires": [

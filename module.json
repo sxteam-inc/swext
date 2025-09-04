@@ -1,0 +1,38 @@
+{
+    "name": "sx-swext",
+    "title": "Savage Worlds - Extension",
+    "description": "Добавляет русский перевод и комплекты контента для игр.",
+    "version": "1.0.0",
+    "author": "sxteam",
+    "compatibility": {
+        "minimum": "13",
+        "verified": "13"
+    },
+    "relationship": {
+        "systems": [
+            {
+                "id": "swade",
+                "type": "required"
+            }
+        ],
+        "requires": [
+            {
+                "id": "babel",
+                "type": "module"
+            }
+        ]
+    },
+    "languages": [
+        {
+            "lang": "ru",
+            "name": "Русский",
+            "path": "lang/ru.json"
+        }
+    ],
+    "esmodules": [
+        "module.js"
+    ],
+    "url": "https://git.rhgsx.space/sxteam/sx-swext",
+    "manifest": "FIXME",
+    "download": "FIXME"
+}

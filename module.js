@@ -1,7 +1,7 @@
 Hooks.on('init', () => {
   if (typeof Babele !== 'undefined') {
     Babele.get().register({
-      module: 'sx-swext',
+      module: 'swext',
       lang: 'ru',
       dir: 'babele/ru'
     });

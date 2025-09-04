@@ -1,14 +1,14 @@
 {
-    "name": "sx-swext",
+    "name": "swext",
     "title": "Savage Worlds - Extension",
     "description": "Добавляет русский перевод и комплекты контента для игр.",
     "version": "1.0.0",
-    "author": "sxteam",
+    "authors": [{ "name": "sxteam" }],
     "compatibility": {
         "minimum": "13",
         "verified": "13"
     },
-    "relationship": {
+    "relationships": {
         "systems": [
             {
                 "id": "swade",

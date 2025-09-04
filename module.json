@@ -12,7 +12,7 @@
             {"id": "swade", "type": "system"}
         ],
         "requires": [
-            {"id": "babel", "type": "module"}
+            {"id": "babele", "type": "module"}
         ]
     },
     "languages": [
